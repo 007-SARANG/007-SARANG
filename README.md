@@ -57,9 +57,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarang-ai&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=007-SARANG&show_icons=true&theme=radical" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarang-ai&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=007-SARANG&layout=compact&theme=radical" />
 </p>
 
 ---
