@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI & Web Developer from Thapar University</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarang-ai&label=Profile%20views&color=0e75b6&style=flat" alt="sarang-ai" />
+  <img src="https://komarev.com/ghpvc/?username=007-SARANG&label=Profile%20views&color=0e75b6&style=flat" alt="007-SARANG" />
 </p>
 
 ---
