@@ -34,7 +34,7 @@
 
 ## 📫 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/sarang-arora" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" /></a>
+  <a href="https://linkedin.com/in/sarang-arora" target="_blank"><img src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)" width="30" /></a>
   <a href="mailto:sarangarora571@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30" /></a>
   <a href="https://discord.com/users/9fireball"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" width="30" /></a>
 </p>
