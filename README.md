@@ -9,8 +9,9 @@
 
 ## 🏆 GitHub Trophy Cabinet
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=007-SARANG&theme=radical&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=007-SARANG&theme=onedark&row=2&column=3" />
 </p>
+
 
 ---
 
