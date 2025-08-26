@@ -7,11 +7,12 @@
 
 ---
 
-## 🏆 GitHub Trophies Cabinet 
+## 🏆 GitHub Trophies Cabinet
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=007-SARANG&theme=onedark&no-bg=true&no-frame=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=007-SARANG&show_icons=true&theme=onedark" />
 </p>
+
 
 
 
