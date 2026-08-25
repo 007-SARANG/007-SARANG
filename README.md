@@ -82,14 +82,12 @@
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40" alt="LinkedIn" />
   </a>
 
-  &nbsp;&nbsp;
-
+  &nbsp;
   <a href="mailto:sarangarora571@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000" width="40" alt="Email" />
   </a>
 
-  &nbsp;&nbsp;
-
+  &nbsp;
   <a href="https://discord.com/users/9fireball">
     <img src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" width="40" alt="Discord" />
   </a>
