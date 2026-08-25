@@ -11,7 +11,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=007-SARANG&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1" alt="GitHub Trophies" />
+  <img src="./assets/trophy.svg" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -42,7 +42,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,react,html,css,tailwind,flask,git,github,mysql,mongodb,linux,vscode" alt="Languages and Tools" />
+    <img
+      src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,react,html,css,tailwind,flask,git,github,mysql,mongodb,linux,vscode"
+      alt="Languages and Tools"
+    />
   </a>
 </p>
 
@@ -51,11 +54,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=007-SARANG&show_icons=true&theme=radical&hide_border=true" alt="Sarang's GitHub Stats" />
+  <img src="./assets/github-stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=007-SARANG&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="./assets/top-languages.svg" alt="Top Languages" />
 </p>
 
 ---
@@ -78,22 +81,18 @@
   <a href="https://linkedin.com/in/sarang-arora">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40" alt="LinkedIn" />
   </a>
+
   &nbsp;&nbsp;
+
   <a href="mailto:sarangarora571@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=ho8QlOYvMuG3&format=png&color=000000" width="40" alt="Email" />
   </a>
+
   &nbsp;&nbsp;
+
   <a href="https://discord.com/users/9fireball">
     <img src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" width="40" alt="Discord" />
   </a>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=007-SARANG&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -103,6 +102,8 @@
 
 > _You have a right to perform your duties, but not to the fruits of your actions.  
 > Do not let the outcome be your motive, nor let your attachment be to inaction._
+
+---
 
 <p align="center">
   <i>Thanks for visiting my profile! ⭐</i>
