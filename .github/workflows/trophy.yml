@@ -21,12 +21,9 @@ jobs:
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: 007-SARANG
-          output: assets/trophy.svg
+          output_path: assets/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
           theme: onedark
-          no-frame: true
-          no-bg: true
-          margin-w: 15
-          row: 1
 
       - name: Commit Trophy
         run: |
