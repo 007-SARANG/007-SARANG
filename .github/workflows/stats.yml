@@ -15,34 +15,31 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
-          username: 007-SARANG
-          output: assets/github-stats.svg
-          theme: radical
-          hide_border: true
-          show_icons: true
+          card: stats
+          options: username=007-SARANG&show_icons=true&theme=radical&hide_border=true
+          path: assets/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
-          username: 007-SARANG
-          type: top-langs
-          output: assets/top-languages.svg
-          layout: compact
-          theme: radical
-          hide_border: true
+          card: top-langs
+          options: username=007-SARANG&layout=compact&theme=radical&hide_border=true
+          path: assets/top-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit GitHub Stats
+      - name: Commit Stats
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add assets/github-stats.svg assets/top-languages.svg
 
-          git diff --cached --quiet || git commit -m "chore: update GitHub stats"
+          git commit -m "Update GitHub stats" || exit 0
 
           git push
