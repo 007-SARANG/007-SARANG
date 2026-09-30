@@ -22,4 +22,4 @@ Python · PyTorch · scikit-learn · OpenCV · XGBoost · FastAPI · TypeScript 
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/sarangx) · [Email](mailto:sarangarora571@gmail.com)
+[LinkedIn](https://linkedin.com/in/sarang-arora) · [Email](mailto:sarangarora571@gmail.com)
