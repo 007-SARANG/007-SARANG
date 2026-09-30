@@ -31,7 +31,7 @@
 
 ## 💬 About Me
 
-* 🎓 2nd Year B.Tech **Artificial Intelligence & Machine Learning** student at **Thapar Institute of Engineering & Technology**
+* 🎓 3rd Year B.Tech **Artificial Intelligence & Machine Learning** student at **Thapar Institute of Engineering & Technology**
 * 🧠 I enjoy building **machine-learning systems, computer-vision applications, and practical AI products**
 * 🔬 Interested in **reproducible ML workflows, model evaluation, deployment, and reliable AI systems**
 * 🚀 Currently working on projects involving **cybersecurity, computer vision, MLOps, and intelligent applications**
