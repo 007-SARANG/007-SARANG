@@ -12,7 +12,6 @@ I build practical machine-learning systems and AI applications, with an interest
 - [ETSI Watchdog](https://github.com/007-SARANG/etsi-watchdog) — data drift monitoring library.
 - [ETSI FailPrint](https://github.com/007-SARANG/etsi-failprint) — diagnostic tooling for ML failures.
 - [SmartRide+](https://github.com/007-SARANG/smartride-plus) — public transport assistant using GTFS.
-- [DocMagic](https://github.com/007-SARANG/DocMagic) — document workflow application.
 
 These are selected projects; their READMEs describe implementation status, requirements, and limitations.
 
