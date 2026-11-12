@@ -3,6 +3,10 @@
 <h3 align="center">AI/ML Engineering Student • Computer Vision • MLOps</h3>
 
 <p align="center">
+  <a href="https://sarangbuilds.vercel.app"><strong>Official Portfolio · sarangbuilds.vercel.app</strong></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=007-SARANG&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
